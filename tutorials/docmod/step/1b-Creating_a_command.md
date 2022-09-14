@@ -32,4 +32,4 @@ public class MyCommandNameCommand extends BaseCommand{
 I highly recommend remplacing **super(name, usage, type)** to :
 > super("yourCommandName/Prefux", "UsageOfYourCommand", CommandType.NORMAL);
 
-## [2 CommandType](2-CommandType.md)
+## [2 CommandType](./2-CommandType.md)
