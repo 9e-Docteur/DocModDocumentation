@@ -3,12 +3,6 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
+* [Start to setup Forge](./tutorials/forge-1)
+  * [Downloading Forge](./tutorials/forge/index)
 
