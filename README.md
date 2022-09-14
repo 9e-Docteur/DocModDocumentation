@@ -1,6 +1,6 @@
-# Welcome to the Documentation of DocMod!
+# Welcome to the Documentation/Wiki website of DocMod!
 
-Please note that this is not finished!!!
+Please note that this is not finished!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page.
+Use the sidebar to navigate trough the wiki.
 
