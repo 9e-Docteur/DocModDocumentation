@@ -1,4 +1,4 @@
-#Creating your OS
+# Creating your OS
 
 First, create a package (optional) and call it computer
 Then, inside the package, create another package (optional) and call it os, then create a class named "YourOSName".
@@ -41,5 +41,3 @@ public class MyOSName extends BaseCommand{
 
 I highly recommend remplacing **super(name, arch, shopPackageName)** to :
 > super("yourOSName", "x64/ARM/UNIVERSAL", "yourOSNamePackageForTheShop");
-
-## [2 Functions](./2-Functions.md)
