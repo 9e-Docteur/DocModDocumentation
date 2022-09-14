@@ -3,7 +3,7 @@
 
 * [Home](./)
 
-* [Start to setup Forge](./tutorials/forge-1)
+* [Start to setup Forge](./tutorials/forge/index.md)
   * [Downloading Forge](./tutorials/forge/index)
 
 * [Starting Coding with DocMod as API](./tutorials/docmod/index.md)
